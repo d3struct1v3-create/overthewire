@@ -1,0 +1,21 @@
+LEVEL 0
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+LEVEL 0->LEVEL 1
+ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+LEVEL 1->LEVEL 2
+263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+LEVEL 2->LEVEL 3
+cat "./--spaces in this filename--" 
+MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+LEVEL 3->LEVEL 4
+2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+LEVEL 4->LEVEL 5
+file ./* --> Elenca il tipo di file
+4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+LEVEL 5->LEVEL 6
+du -b -a | grep 1033 --> grep si prende solo le righe che hanno 1033
+HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+LEVEL 6->LEVEL 7
+morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
+LEVEL 7->LEVEL 8
+dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
